@@ -58,3 +58,6 @@ The application features a GUI which could easily change the scene setup. The GU
 
 *Rough conductors and dielectrics are implemented according to the paper [Microfacet Models for Refraction through Rough Surfaces](https://www.cs.cornell.edu/~srm/publications/EGSR07-btdf.pdf)
 
+EXAMPLES OF RENDERS
+
+![Exemple of render](https://github.com/yrouxel/Cpp_Raytracer/blob/main/images/silver_teapot.png?raw=true)

@@ -14,3 +14,9 @@ ppg
 
 # Ignore scenes
 scenes/complex_scenes/*
+
+# Config files
+.vscode/*
+
+# Stuff
+*.app
