@@ -1,0 +1,16 @@
+# Ignore build files
+build/*
+
+# Ignore build files from the libraries
+libs/*
+
+# Ignore executable
+render
+benchmark
+ppg
+
+# Ignore envmap as it is too large
+*.exr
+
+# Ignore scenes
+scenes/complex_scenes/*
