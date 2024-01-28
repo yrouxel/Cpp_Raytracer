@@ -4,17 +4,17 @@ project(render)
 set (CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
 
 set(SOURCE
-	main.cpp
-	gui.cpp
+	main/main.cpp
+	main/gui.cpp
 )
 
 set(SOURCE_BENCHMARK
-	benchmark.cpp
-	gui.cpp
+	main/benchmark.cpp
+	main/gui.cpp
 )
 
 set(SOURCE_PPG
-	ppg.cpp
+	main/ppg.cpp
 )
 
 find_package(OpenGL REQUIRED)

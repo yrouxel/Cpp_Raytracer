@@ -25,7 +25,7 @@
 
 int main(){
 	GUI gui;
-	string dir_path = "scenes";
+	string dir_path = "scenes/basic_scenes";
 	string scene_name = "teapot";	
 	EnvMap envmap(dir_path + "/" + scene_name + "/" + scene_name + ".exr", gui.envmapExposure);
 	Sampler sampler;
