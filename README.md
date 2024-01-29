@@ -2,6 +2,8 @@
 
 This is a simple plain cpp ray tracer developed for the practical course Graphics and Game Development. It has been tested and runs on Ubuntu and Mac OS. The ray tracing is entirely CPU-based.
 
+EDIT: this was a school project and I will most likely not update it appart from making it more usable
+
 **Compile and run**  
 First you need to clone [glm](https://github.com/g-truc/glm) and [glfw](https://github.com/glfw/glfw) repositories and place them in the corresponding folders in the lib directory. The name of the scene can be changed from the file ```main.cpp```. Note that the environment maps for the scenes are not uploaded in the repository. An environment map can be downloaded from [PolyHaven](https://polyhaven.com/hdris) and placed in the correponding scene folder and renamed exactly as the scene name.
 
